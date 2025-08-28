@@ -1,0 +1,4 @@
+[submodule "engines/sadtalker"]
+	path = engines/sadtalker
+	url = git@github.com:mathwidu/SadTalker-fork.git
+	branch = main
